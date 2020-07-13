@@ -1,5 +1,19 @@
-# ProyectoCursoSempiMauroRP
+# Proyecto de fin de Curso Academia Sempia 
 
+Proyecto React realizado por Muauro Rodríguez
+
+El proyecto es una página web creada y diseñada para uso de una nutricionista.
+
+El mismo utiliza las herramientas: React,HTML,JS,CSS
+<p>
+Los pasos para iniciar la página web son:
+<ol>
+  <li>Abrir la consola de comandos o PowerShell.</li>
+  <li>Dirigirse a la carpeta donde se encuentra el proyecto React.</li>
+  <li>Escribir npm install, para instalar lon modulos al proyecto.</li>
+  <li>Escribir npm Start para iniciar el proyecto.</li>
+  <li>Se abrira el navegador con la pagina web del Proyecto.</li>
+</ol></p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
